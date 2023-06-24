@@ -1,0 +1,10 @@
+Openai response for Prompt:write a message to Amit for cleaning the room using AI 
+ ------------------------------
+
+
+Dear Amit, 
+
+I hope you are doing well. I am writing to let you know that I really appreciate your hard work and dedication in cleaning our room. You went the extra mile to ensure that everything was spic and span and I am grateful for that. Thanks for your help! 
+
+Best regards, 
+[Your name]

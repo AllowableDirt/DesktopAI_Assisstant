@@ -1,0 +1,13 @@
+Openai response for Prompt:wait 
+ ------------------------------
+)
+    if response['output_indices']    == []:
+        response['output_indices'] = output_indices
+    if response['values']           == []:
+        response['values']          = values
+
+    return json.dumps(response)
+
+
+if __name__ == '__main__':
+    app.run(debug = True, port = 5000)
